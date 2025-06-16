@@ -1,1 +1,0 @@
-<!DOCTYPE html><html><head><title>Habit Tracker</title></head><body>
